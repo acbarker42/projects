@@ -1,3 +1,14 @@
+# Common temporary files
+*.py[co]
+*.log
+*.jou
+\#*\#
+.\#*
+*~
+.*.sw[op]
+tmp.tempFile*
+.DS_Store
+
 *.class
 
 # Mobile Tools for Java (J2ME)
